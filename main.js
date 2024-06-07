@@ -1,4 +1,4 @@
-alert("Good day coders, all the projects you see are only fit for Cellphone Users )
+alert("Good day coders, all the projects you see are only fit for Cellphone users" )
 const hours = document.getElementById("hours");
 const mins = document.getElementById("mins");
 const secs = document.getElementById("secs");
